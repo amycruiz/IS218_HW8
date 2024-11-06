@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: amycruiz/devops_demo:latest
+          tags: amycruiz/IS218_HW8:latest
